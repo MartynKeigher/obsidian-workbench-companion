@@ -11,7 +11,7 @@
     "moduleResolution": "bundler",
     "importHelpers": true,
     "isolatedModules": true,
-    "lib": ["DOM", "ES2018"]
+    "lib": ["DOM", "DOM.Iterable", "ES2018"]
   },
   "include": ["src/**/*.ts"]
 }
