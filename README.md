@@ -6,6 +6,8 @@ An Obsidian plugin that goes alongside the [Workbench](https://github.com/Martyn
 
 The plugin only switches classes on and off. Every colour and style lives in the Workbench theme, so with another theme the settings do nothing. With the plugin disabled or uninstalled, Workbench looks exactly as it always has.
 
+**Why doesn't the plugin hold its own styles?** Because every option is built from Workbench's own colours and layout. Keeping the styles in the theme gives one place for every visual decision and means a Workbench update can never break the plugin's look.
+
 ## Settings
 
 Open **Settings → Community plugins → Workbench Companion**.
