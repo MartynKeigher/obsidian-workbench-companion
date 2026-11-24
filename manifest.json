@@ -1,0 +1,11 @@
+{
+  "id": "workbench-companion",
+  "name": "Workbench Companion",
+  "version": "0.1.0",
+  "minAppVersion": "1.6.0",
+  "description": "Settings for the Workbench theme, starting with a pop color for links, tags, tasks, highlights and callouts.",
+  "author": "Martyn Keigher",
+  "authorUrl": "https://github.com/MartynKeigher",
+  "fundingUrl": "https://www.buymeacoffee.com/martynkeigher",
+  "isDesktopOnly": false
+}
